@@ -25,7 +25,7 @@ const footer = () => {
                 <a className=" mb-6 inline-block">
                   <img
                     src="/images/logo_white.png"
-                    className="hidden max-h-7 dark:block mb-6"
+                    className="hidden max-h-16 dark:block mb-6"
                     alt="Blenny | NFT Marketplace"
                   />
                 </a>

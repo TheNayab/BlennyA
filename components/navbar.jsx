@@ -292,7 +292,7 @@ const Navbar = () => {
 
                     <img
                       src="/images/logo_white.png"
-                      className="max-h-7 h-auto hidden dark:block"
+                      className="max-h-16 h-auto hidden dark:block"
                       alt="Bleeny | NFT Marketplace"
                     />
                   </a>
